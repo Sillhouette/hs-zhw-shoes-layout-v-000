@@ -44,9 +44,3 @@
 [class*="col-"]:first-child {
    margin-left: 0;
  }
-
-#archive {
-  width: 31%;
-  float: right;
-  margin-left: 2%;
-}
