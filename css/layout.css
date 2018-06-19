@@ -24,11 +24,6 @@
 
 /* Posititoning Classes */
 
-.row {
-  display: block;
-  clear: both;
-  margin: 5px 0;
-}
 
 .col-8{
   width: 66%;
